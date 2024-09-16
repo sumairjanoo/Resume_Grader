@@ -1,0 +1,76 @@
+Certifications & Training: Datacamp Certifications for Python, SQL and Macquarie University Excel Certification
+Technical Skills: 
+•	SQL – Significant experience in writing SQL queries developed through daily use during experience in Khaadi Corporation
+•	Python – Possess Datacamp Certifications and independent projects in Python 
+•	Power BI – Significant experience in Power BI through dashboard creation for Toyota and Khaadi
+•	Microsoft Excel – Possess a Macquarie University Excel Certification and used Excel for Pivot Table Creation and Macro based process optimization
+
+EDUCATION
+University of Windsor                                                                                                                                     Windsor, Ontario
+Master of Management – Specialization: Business Data Analytics                                                             January’24 – Present 
+Institute of Business Administration	
+Bachelor of Business Administration – Major: Marketing & Human Resources	August ‘17 – May ‘21
+GPA: 3.59 | Honors: Dean’s List
+
+WORK EXPERIENCE
+Khaadi Corporation
+Energizer People Excellence	                                                                        			Sep ‘22 – Dec’23
+Responsible for human resource functions 
+●	Spearheaded recruitment efforts, successfully hiring and onboarding over 100 new employees within the past year, resulting in a 20% increase in workforce efficiency.
+●	Developed and implemented innovative recruitment strategies, resulting in a 30% reduction in time-to-hire and a 15% increase in applicant quality.
+●	Implemented performance management systems and conducted regular performance evaluations, resulting in a 25% increase in employee productivity and a 10% decrease in turnover rate.
+●	Led training and development initiatives, designing and delivering tailored training programs for employees at all levels, resulting in a 20% increase in employee satisfaction and engagement.
+●	Established and maintained HR metrics dashboard, tracking key performance indicators such as turnover rate, time-to-fill, and training effectiveness, providing actionable insights to senior management for strategic decision-making.
+●	Implemented diversity and inclusion initiatives, resulting in a 15% increase in workforce diversity representation.
+●	Led employee relations efforts, resolving conflicts and fostering a positive work environment, resulting in a 20% decrease in employee grievances.
+●	Ensured compliance with labor laws and regulations, conducting regular audits and implementing corrective actions as necessary, resulting in zero legal penalties or violations optimization.
+Khaadi Corporation
+Enabler - Business Excellence				                                                                       Mar ‘22 – Aug’22
+Responsible for people management in the realms of employer branding and retail excellence
+●	Created Men’s product line team by structuring and onboarding a complete brand team hiring 16 employees in 6 months
+●	Managed $25 million IFC equity investment into Khaadi Corporation for investment into small markets.
+●	Revised HR manual for IFC compliance, resulting in a 15% improvement in HR processes.
+●	Spearheaded EDGE certification, reducing gender pay gap by 18%.
+●	Utilized Power BI to track 25% reduction in carbon footprint and 30% increase in employee satisfaction.
+●	Developed business concept for SEC B & C markets, projecting a 25% revenue increase.
+Toyota Motor Corporation - Indus Motor Company	
+Management Trainee – Marketing Planning 	                                                                                                    Sep ‘21 – Mar ‘22
+●	Led localization efforts for Toyota Yaris and Fortuner to reduce vehicle cost by 25%.
+●	Initiated a hybrid vehicle adoption strategy to increase hybrid vehicle sales by 25% by 2025.
+●	Constructed a Corolla – Yaris exchange incentive program leading to sales of 250 vehicles.
+●	Designed corporate marketing strategies to encourage corporate sales for the Toyota Yaris in a B2B model.
+
+
+
+
+RELEVANT PROJECTS
+Toyota Motor Corporation | Sales Data Analysis and Visualization					Apr’22 – Jul ‘22
+•	Technologies Used: SQL, Power BI
+•	Key Responsibilities
+o	Created SQL queries to extract sales data on the basis of region
+o	Created a dashboard to visualize region wise automotive sales trends and gain insights for improving sale in rural regions
+o	Collaborated with sales teams to distributes targets based on revised metrics
+•	Results
+o	Enhanced data visibility leading to 20% improvement in sales forecasting
+o	Improved targeting strategy increased rural sales contribution by10%
+o	Reduced reporting time by 30% through automatic data integration and real time dashboard updates
+Khaadi Corporation | Foot Traffic Analysis							Oct’22 – Jul ‘23
+•	Technologies Used: SQL, Python(Matplotlib, Seaborn), Teableau
+•	Key Responsibilities
+o	Extracted and analyzed 4 years of daily foot traffic from company foot traffic monitoring system using SQL queries.
+o	Developed Python scripts using Pandas for data cleaning, preprocessing and analysis of foot traffic data
+o	Utilized Matplotlib and Seaborn to created detailed visualizations of customer foot traffic trends, peak hours and heatmaps of store layouts
+o	Conducted statistical analysis to identify store ‘hot’ and ‘cold’ spots
+o	Recommended strategies to optimize store layouts, staffing schedule and in-store promotional activities
+•	Achievements
+o	Identified peak traffic times and in-store traffic ‘hotspots’ leading to 20% increase in sales through optimizing in-store merchandizing.
+o	Implemented targeted promotional during high-traffic times leading to 25% increases in in-store conversion rates.
+o	Automated foot traffic analysis through creating Tableau dashboard
+
+RELEVANT INTERNSHIP EXPERIENCE
+L’Oreal	
+Project Trainee - Marketing,	                                                                                                                  Jan ‘21 – Apr ‘22
+●	Worked for L’Oreal to indicate the most optimal product mix for new product line in the L’Oreal Paris range.
+●	Mapped out 10 digital markets and conducted retail audits for L’Oreal at Local Modern Trade stores.
+●	Used a data model to recommend the most effective product mix (e-commerce stores, retail stores, prices and SKUs) for the new L’Oreal product leading to marketing budget saving of 2.5%.
+●	Recommended the most effective social media platform to utilize for the new product line and recommended the most effective conventional mediums to utilize for promotional purposes.
