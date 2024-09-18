@@ -1,4 +1,5 @@
 Resume Analysis and Grading Tool
+
 📄 Overview
 The Resume Analysis and Grading Tool is a Python-based application that uses Natural Language Processing (NLP) to evaluate resumes against job descriptions. It provides a "fit score" based on keyword matching, readability, and relevant skills, helping job seekers enhance their resumes and recruiters streamline their screening process.
 
